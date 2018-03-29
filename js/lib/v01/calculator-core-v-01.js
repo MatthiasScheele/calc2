@@ -1,4 +1,5 @@
 "use strict";
+
 var lib ="com.sapui.calculator"
 window["com"]= window["com"]||{};
 com.sapui=com.sapui ||{};   
