@@ -1,5 +1,7 @@
 "use strict";
 
+
+
 $.initStructure("com.sapui.calculator");
 var calc = com.sapui.calculator;
 calc.screen= 0;
